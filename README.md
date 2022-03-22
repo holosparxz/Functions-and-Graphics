@@ -8,7 +8,7 @@ To simulate a display, we’ll be using the memory-mapped bitmap graphics displa
 ## FILES
 1. graphics.asm - This file includes the assembly code of the lab.
 
-2. main-test-all.asm - Allows us to see the visual bitmap display that is coded into lab4.asm.
+2. main-test-all.asm - Allows us to see the visual bitmap display that is coded into graphics.asm.
 
 3. README.md - This file explains the contents fo the lab.
 
