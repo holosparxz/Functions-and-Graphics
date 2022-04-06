@@ -1,9 +1,9 @@
 # Functions-and-Graphics in Assembly
 
 ## DESCRIPTION
-In this lab, you will implement functions that perform some primitive graphics operations on a small simulated display. 
-These functions will allow users to change the background color of the display, and “draw” horizontal and vertical lines on the display.
-To simulate a display, we’ll be using the memory-mapped bitmap graphics display tool included with MARS.
+I implemented functions that perform some primitive graphics operations on a small simulated display. 
+These functions allows users to change the background color of the display, and “draw” horizontal and vertical lines on the display.
+To simulate a display, I used the memory-mapped bitmap graphics display tool included with MARS.
 
 ## FILES
 1. graphics.asm - This file includes the assembly code of the lab.
