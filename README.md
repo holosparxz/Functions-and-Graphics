@@ -1,5 +1,5 @@
 # Functions-and-Graphics in Assembly
-
+Program draws various shapes and patterns in MIPS Assembler and ran in MARS.
 ## DESCRIPTION
 I implemented functions that perform some primitive graphics operations on a small simulated display. 
 These functions allows users to change the background color of the display, and “draw” horizontal and vertical lines on the display.
